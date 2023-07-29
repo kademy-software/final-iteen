@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --body-small: Roboto;
+  --font-source-code-pro: "Source Code Pro";
+  --font-inherit: inherit;
+  --font-antikor-mono: "Antikor Mono";
+  --font-rubik: Rubik;
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --body-small-size: 14px;
+  --font-size-xl: 20px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-black: #000;
+  --color-lightblue-100: #aae3ff;
+  --color-gainsboro: #d9d9d9;
+
+  /* border radiuses */
+  --br-xl: 20px;
+}
